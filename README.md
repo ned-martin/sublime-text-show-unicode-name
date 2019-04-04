@@ -1,6 +1,6 @@
 # Show Unicode Name
 
-Show the unicode name and code point of the character at the cursor in the status bar in Sublime Text 3
+Show the Unicode character name, decimal character code and hexadecimal Unicode code point of the character at the cursor in the status bar in Sublime Text 3
 
 ![screencast](https://i.imgur.com/5sh8mk0.gif)
 
