@@ -7,7 +7,7 @@ Show the Unicode character name, decimal character code and hexadecimal Unicode 
 ## Installation
 
 ### Package Control
-If you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed in Sublime Text:
+If you already have [Package Control](https://packagecontrol.io/installation) installed in Sublime Text:
 
 * Select "Install Package" from the Command Palette: <kbd>Ctrl+Shift+P</kbd> on Windows and Linux or <kbd>⇧⌘P</kbd> on OS X)
 * Search for "**Show Unicode Name**" and click <kbd>enter</kbd>.
